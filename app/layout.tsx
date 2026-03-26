@@ -3,7 +3,7 @@ import React from "react";
 import "./globals.css";
 
 const DOMAIN_URL =
-  process.env.NEXT_PUBLIC_DOMAIN_URL || "https://arukumar-dev.in";
+  process.env.NEXT_PUBLIC_DOMAIN_URL || "https://arunkumar-dev.in";
 
 const GITHUB_URL =
   process.env.NEXT_PUBLIC_GITHUB_URL || "https://github.com/arunkumar-dev-ak";
